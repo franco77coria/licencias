@@ -1,1 +1,9 @@
-{"activo": true, "mensaje": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.", "fechaLimite": "2026-08-30"}
+{
+  "activo": true,
+  "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
+  "fechaLimite": "2026-09-30",
+  "ultimaVersion": "1.1.0",
+  "notas": "• Soporte nativo para proyección de holograma vertical (9:16) con fondo negro puro.\n• Escaneo universal de códigos QR desde cualquier pestaña del sistema.\n• Disparador de videos en vivo directamente desde el panel de Proyector y Mesas.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.1.0/Instalador-Sistema-JANOS-1.1.0.exe",
+  "obligatoria": false
+}
