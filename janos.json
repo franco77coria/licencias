@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2026-09-30",
-  "ultimaVersion": "1.2.2",
-  "notas": "• Reproducción limpia de video holograma sin texto sobreimpreso.\n• Pantalla de proyección directa en la computadora para conectar por HDMI.\n• Modo Espejo para holograma activado por defecto con botón para alternar.\n• Reproducción automática de videos con sonido al escanear QR o probar mesas.\n• Escaneo universal de códigos QR en todas las pantallas.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.2.2/Instalador-Sistema-JANOS-1.2.2.exe",
+  "ultimaVersion": "1.3.0",
+  "notas": "• Doble código QR (QR general de mesa + QR personal de saludos especiales).\n• Desglose interactivo en Mesas con lista de comensales y carga/prueba de video en vivo.\n• Vista de Invitados agrupada por mesa con totales y filtro de saludos especiales.\n• Proyección inteligente con fallback automático al video de la mesa.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.3.0/Instalador-Sistema-JANOS-1.3.0.exe",
   "obligatoria": false
 }
