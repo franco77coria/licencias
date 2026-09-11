@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2026-09-30",
-  "ultimaVersion": "1.3.2",
-  "notas": "• Corrección: cuando varios invitados de la misma mesa escaneaban el QR seguido, el video a veces se cortaba a mitad y volvía el cartel de la mesa aunque se estuviera reproduciendo bien. Ya no pasa.\n• Corrección: el video del proyector se trababa/tildaba cuando la ventana de admin tenía el foco.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.3.2/Instalador-Sistema-JANOS-1.3.2.exe",
+  "ultimaVersion": "1.4.0",
+  "notas": "• Corrección importante: el video del proyector se distorsionaba en bloques de colores a mitad de la reproducción, aunque el sonido siguiera bien. Ahora el video lo procesa el procesador y no la placa de video, así que se ve igual en cualquier equipo.\n• Los videos que se cargan se preparan automáticamente para que se reproduzcan parejo en cualquier computadora. Tarda unos segundos al asignarlos y se muestra el avance. Ahora también acepta archivos AVI y MKV.\n• El video arranca más rápido y, al abrir el proyector, queda precargado: el primer invitado de la noche ya no espera más que el resto.\n• Corrección: si un video llegaba a trabarse, la pantalla quedaba congelada el resto del evento. Ahora muestra el cartel con el número de mesa.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.4.0/Instalador-Sistema-JANOS-1.4.0.exe",
   "obligatoria": false
 }
