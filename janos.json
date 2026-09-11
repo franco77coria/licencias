@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2026-09-30",
-  "ultimaVersion": "1.3.1",
-  "notas": "• Corrección: el video del proyector se trababa/tildaba durante el evento cuando la ventana de admin tenía el foco (Alt+Tab o mostrador trabajando encima). Ahora el proyector reproduce sin cortes tenga o no el foco.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.3.1/Instalador-Sistema-JANOS-1.3.1.exe",
+  "ultimaVersion": "1.3.2",
+  "notas": "• Corrección: cuando varios invitados de la misma mesa escaneaban el QR seguido, el video a veces se cortaba a mitad y volvía el cartel de la mesa aunque se estuviera reproduciendo bien. Ya no pasa.\n• Corrección: el video del proyector se trababa/tildaba cuando la ventana de admin tenía el foco.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.3.2/Instalador-Sistema-JANOS-1.3.2.exe",
   "obligatoria": false
 }
