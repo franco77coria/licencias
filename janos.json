@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2026-09-30",
-  "ultimaVersion": "1.3.0",
-  "notas": "• Doble código QR (QR general de mesa + QR personal de saludos especiales).\n• Desglose interactivo en Mesas con lista de comensales y carga/prueba de video en vivo.\n• Vista de Invitados agrupada por mesa con totales y filtro de saludos especiales.\n• Proyección inteligente con fallback automático al video de la mesa.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.3.0/Instalador-Sistema-JANOS-1.3.0.exe",
+  "ultimaVersion": "1.3.1",
+  "notas": "• Corrección: el video del proyector se trababa/tildaba durante el evento cuando la ventana de admin tenía el foco (Alt+Tab o mostrador trabajando encima). Ahora el proyector reproduce sin cortes tenga o no el foco.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.3.1/Instalador-Sistema-JANOS-1.3.1.exe",
   "obligatoria": false
 }
