@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2028-09-30",
-  "ultimaVersion": "1.5.1",
-  "notas": "• Tarjetas de invitación QR actualizadas: ya no se muestra el número de mesa en el QR ni en el mensaje de WhatsApp (para que la mesa se revele únicamente al escanear en el salón).\n• Incluye automáticamente el Nombre del Evento (con tipografía caligráfica cursiva), la Fecha del Evento, el Nombre del Invitado y el cupo de personas.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.5.1/Instalador-Sistema-JANOS-1.5.1.exe",
+  "ultimaVersion": "1.5.2",
+  "notas": "• Tarjetas de invitación QR actualizadas: se eliminó tanto el número de mesa como la cantidad de personas de la tarjeta QR y del mensaje de WhatsApp.\n• Ahora muestra únicamente el Nombre del Invitado debajo del QR y al pie el Nombre y la Fecha del Evento.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.5.2/Instalador-Sistema-JANOS-1.5.2.exe",
   "obligatoria": false
 }
