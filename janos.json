@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2028-09-30",
-  "ultimaVersion": "1.5.0",
-  "notas": "• Nuevo diseño de tarjetas de invitación QR verticales (1080 × 1920 px) con estética de salón y detalles en tonos violetas.\n• Toma automáticamente el Nombre del Evento (con tipografía caligráfica cursiva) y la Fecha del Evento en la parte inferior.\n• Incluye automáticamente el Nombre del Invitado, la Mesa y el cupo de personas directamente desde el sistema.\n• Permite elegir el formato al visualizar o exportar (Tarjeta completa con invitado y mesa, Tarjeta limpia solo evento y fecha, o Solo QR).\n• Envío rápido por WhatsApp copiando la tarjeta lista al portapapeles.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.5.0/Instalador-Sistema-JANOS-1.5.0.exe",
+  "ultimaVersion": "1.5.1",
+  "notas": "• Tarjetas de invitación QR actualizadas: ya no se muestra el número de mesa en el QR ni en el mensaje de WhatsApp (para que la mesa se revele únicamente al escanear en el salón).\n• Incluye automáticamente el Nombre del Evento (con tipografía caligráfica cursiva), la Fecha del Evento, el Nombre del Invitado y el cupo de personas.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.5.1/Instalador-Sistema-JANOS-1.5.1.exe",
   "obligatoria": false
 }
