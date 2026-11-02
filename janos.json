@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2028-09-30",
-  "ultimaVersion": "1.5.3",
-  "notas": "• Tarjetas de invitación QR limpias: dentro del recuadro central va únicamente el código QR centrado (sin números de mesa ni cantidad de personas debajo del QR).\n• Al pie mantiene el Nombre del Evento con tipografía caligráfica cursiva y la Fecha del Evento.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.5.3/Instalador-Sistema-JANOS-1.5.3.exe",
+  "ultimaVersion": "1.5.4",
+  "notas": "Corrección del nombre y fecha del evento/reserva al pie del QR, clonado completo al crear nuevo evento y edición rápida del nombre del festejo al exportar.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.5.4/Instalador-Sistema-JANOS-1.5.4.exe",
   "obligatoria": false
 }
