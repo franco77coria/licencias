@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2028-09-30",
-  "ultimaVersion": "1.5.4",
-  "notas": "Corrección del nombre y fecha del evento/reserva al pie del QR, clonado completo al crear nuevo evento y edición rápida del nombre del festejo al exportar.",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.5.4/Instalador-Sistema-JANOS-1.5.4.exe",
+  "ultimaVersion": "1.6.0",
+  "notas": "Eventos personalizados (imagen propia o sin logo en el QR, imagen propia o pantalla negra en reposo, y color predominante), exportar/importar eventos entre computadoras (.janos) conservando los QR ya enviados, y creacion automatica de Mesas en Invitados (individual, en lote y sincronizacion).",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.6.0/Instalador-Sistema-JANOS-1.6.0.exe",
   "obligatoria": false
 }
