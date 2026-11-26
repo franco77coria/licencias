@@ -2,8 +2,8 @@
   "activo": true,
   "mensajeBloqueo": "Licencia suspendida por falta de pago. Por favor comuníquese con el desarrollador para reactivar el sistema.",
   "fechaLimite": "2028-09-30",
-  "ultimaVersion": "1.6.0",
-  "notas": "Eventos personalizados (imagen propia o sin logo en el QR, imagen propia o pantalla negra en reposo, y color predominante), exportar/importar eventos entre computadoras (.janos) conservando los QR ya enviados, y creacion automatica de Mesas en Invitados (individual, en lote y sincronizacion).",
-  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.6.0/Instalador-Sistema-JANOS-1.6.0.exe",
+  "ultimaVersion": "1.6.1",
+  "notas": "Descarga de todos los QR de una sola vez en PNG ('Descargar todos los QR (PNG)') con el nombre exacto de la columna Invitado y carpeta automatica lista para Google Drive. Incluye tambien eventos personalizados (QR, pantalla de espera y color), exportar/importar eventos entre PCs (.janos) y replicacion automatica de Mesas en Invitados.",
+  "urlDescarga": "https://github.com/franco77coria/licencias/releases/download/v1.6.1/Instalador-Sistema-JANOS-1.6.1.exe",
   "obligatoria": false
 }
